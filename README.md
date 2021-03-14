@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Michal Bernhard's GITHUB profile 👋
 
 <!--
 **michalbcz/michalbcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
